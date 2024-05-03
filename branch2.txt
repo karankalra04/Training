@@ -1,1 +1,3 @@
 this file is created inside branch 2
+
+new line written in branch 2 today
